@@ -4,5 +4,10 @@
     <string name="username">Username</string>
     <string name="password">Password</string>
     <string name="btn_register">Register</string>
-	<string name="imageview1">ImageView1</string>
+    <string name="imageview1">ImageView1</string>
+    <string name="text_title">Some Title: Some Sub Title</string>
+    <string name="btn_share">Share</string>
+    <string name="tv_body_text">Morbi ac augue varius, sollicitudin tortor molestie, sodales enim. Suspendisse potenti. Cras malesuada blandit ex, sed luctus ipsum feugiat ut. Maecenas rutrum efficitur purus et scelerisque. Praesent vitae enim sed arcu eleifend semper. In hendrerit risus nunc. Aliquam sed vulputate metus. Vestibulum mi sem, iaculis vel sollicitudin varius, efficitur sit amet risus. Curabitur at ultricies dolor. Nunc nisi leo, pretium eu sapien sed, eleifend dignissim arcu. Nunc eget leo urna. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Maecenas feugiat augue elit, ac rhoncus dui ornare vitae. Aenean congue diam in eros aliquam porta. Pellentesque ac odio massa.\n\n
+        Nunc scelerisque eu urna ut pulvinar. Donec tempus eleifend mattis. Ut leo urna, pretium sed ultrices et, vulputate ut augue. Pellentesque turpis sapien, tempor quis tincidunt eu, consequat nec massa. Pellentesque tincidunt at lacus ac tincidunt. Phasellus at magna consequat dui condimentum iaculis dignissim malesuada augue. Nam id elit ultrices, dignissim nulla eu, ultricies nunc.\n\n
+        Vivamus quam lorem, dignissim id consequat at, malesuada sit amet nulla. Ut pretium velit et erat consectetur, ut cursus ligula consequat. Nulla ullamcorper suscipit nulla ut viverra. Maecenas nisl nibh, commodo vel feugiat in, consectetur at libero. Nulla efficitur aliquam magna, a elementum odio luctus eget. Sed a posuere turpis. In dictum mollis urna, sed pellentesque lorem suscipit ac. Integer rutrum gravida quam sit amet efficitur.</string>
 </resources>
